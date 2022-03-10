@@ -3,4 +3,5 @@ An implementation of the paper: N. Singh and A. K. Bhandari, "Principal Componen
 Results from the proposed Low light image enhancement technique has been compared with other standard methods in literature such as histogram equalization, contrast limited adaptive histogram equalization (CLAHE), Dark Channel Prior (DCP), Fast efficient algorithm (FEA) and Multi-Scale Retinex methods.
 Ideal test images include those from low light image dataset and retina fundus dataset available publicly. 
 The comparison metrics include FSIM, PCQI, VSI, Entropy, SSIM, NIQE
+Change image number using variable k to store results of each image for computing box plots
 Please maintain appropriate citations wherever required 
